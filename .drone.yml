@@ -13,4 +13,4 @@ steps:
             from_secret: dockerhub_password
     when:
         branch:
-            - master
+            - main
