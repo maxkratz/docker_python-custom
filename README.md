@@ -1,6 +1,6 @@
 # docker_python-custom
 
-[![Build Status](https://github.ci.maxkratz.com/api/badges/maxkratz/docker_python-custom/status.svg?ref=refs/heads/main)](https://github.ci.maxkratz.com/maxkratz/docker_python-custom)
+[![Build Docker images](https://github.com/maxkratz/docker_python-custom/actions/workflows/build.yml/badge.svg)](https://github.com/maxkratz/docker_python-custom/actions/workflows/build.yml)
 
 *Unofficial* custom python Docker image for faster CI jobs of other projects of mine.
 Prebuild images can be found at [Dockerhub](https://hub.docker.com/r/maxkratz/python-custom).
